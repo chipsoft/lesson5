@@ -27,5 +27,5 @@ root@qemux86:~# insmod home5.ko && rmmod home5.ko
 [  650.158089] Find range, that contain 11: [0 - 15]
 [  650.169020] 
 [  650.169020] That's all, folks!
-[  650.169020] 
+[  650.169020]  
 
